@@ -1,0 +1,10 @@
+{
+    "name": "zai core",
+    "description": "zai core",
+    "autoload": {
+        "psr-4": {
+            "Zai\\": "core/"
+        },
+        "files": ["core/helpers.php"]
+    }
+}

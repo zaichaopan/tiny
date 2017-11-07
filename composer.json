@@ -1,0 +1,13 @@
+{
+    "name": "understaind laravel",
+    "description": "understanding laravel",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "Zai\\" : "vendor/zai/core"
+        },
+        "files": [
+            "vendor/zai/core/helpers.php"
+        ]
+    }
+}
