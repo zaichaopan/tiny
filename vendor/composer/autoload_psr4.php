@@ -7,5 +7,6 @@ $baseDir = dirname($vendorDir);
 
 return array(
     'Zai\\' => array($vendorDir . '/zai/core'),
+    'Dotenv\\' => array($vendorDir . '/vlucas/phpdotenv/src'),
     'App\\' => array($baseDir . '/app'),
 );

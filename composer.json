@@ -9,5 +9,8 @@
         "files": [
             "vendor/zai/core/helpers.php"
         ]
+    },
+    "require": {
+        "vlucas/phpdotenv": "^2.4"
     }
 }

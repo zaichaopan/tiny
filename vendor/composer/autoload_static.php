@@ -15,6 +15,10 @@ class ComposerStaticInit7df5fcc83e0c4fc1038fa7cd085a92ec
         array (
             'Zai\\' => 4,
         ),
+        'D' => 
+        array (
+            'Dotenv\\' => 7,
+        ),
         'A' => 
         array (
             'App\\' => 4,
@@ -25,6 +29,10 @@ class ComposerStaticInit7df5fcc83e0c4fc1038fa7cd085a92ec
         'Zai\\' => 
         array (
             0 => __DIR__ . '/..' . '/zai/core',
+        ),
+        'Dotenv\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/vlucas/phpdotenv/src',
         ),
         'App\\' => 
         array (
